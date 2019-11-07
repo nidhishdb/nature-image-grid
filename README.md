@@ -1,2 +1,2 @@
 # nature-image-grid
-A image grid created using css grids
+A responsive image grid created using css grids
